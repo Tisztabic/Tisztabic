@@ -1,0 +1,21 @@
+- Sevima Data Recovery ; saya menggunakan 2 server dan 8 client sebagai berikut ; 
+- 1. server 0 adalah server utama (server pusat) dan Client 0-3 adalah data utama (data Pusat)
+- 2. server 1 adalah server backup (server seconnd) dan Client 4-7 adalah data backup (data simpanan)
+
+- dengan ketentuan tersebut apabila server utama mati (putus) masih bisa berjalan (digunakan) untuk beroperasi 
+- menggunakan server backup untuk sementara waktu. dengan menggunakan router sebagai penghubung data.
+- dan apabila router (penghubung data) tersebut mati. maka, data yang akan dikirim akan aman 
+- dan tersimpan sementara dalam router yang akan dikirim kembali disaat router sudah menyala.
+ 
+
+
+
+
+
+
+
+
+
+
+
+- maaf bila masih ada kesalahan dikarenakan saya masih belajar.
